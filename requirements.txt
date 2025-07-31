@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pypdf
+requests
+google-generativeai
+chromadb
+sentence-transformers
+nest-asyncio
+pyngrok
