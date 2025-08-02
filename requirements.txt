@@ -1,7 +1,8 @@
 fastapi
 uvicorn
-pypdf
 requests
+pymupdf
 scikit-learn
 numpy
+pydantic
 
